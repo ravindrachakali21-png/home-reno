@@ -107,7 +107,7 @@ export default function Contact() {
             {/* Contact cards */}
             <div className="flex flex-col gap-4 mb-8">
               {[
-                { icon: '📞', label: 'Call Us', val: '+91 98765 43210' },
+                { icon: '📞', label: 'Call Us', val: '+91 9391216535' },
                 { icon: '✉️', label: 'Email', val: 'hello@renovatepro.in' },
                 { icon: '📍', label: 'Head Office', val: 'Bangalore, India' },
                 { icon: '🕐', label: 'Working Hours', val: 'Mon–Sat, 9AM – 7PM' },
@@ -187,7 +187,7 @@ export default function Contact() {
                       </Field>
                       <Field label="Phone Number" icon={Phone} error={errors.phone}>
                         <input value={data.phone} onChange={e => set('phone', e.target.value)}
-                          placeholder="+91 98765 43210" className={inputCls('phone')} />
+                          placeholder="+91 9391216535" className={inputCls('phone')} />
                       </Field>
                     </div>
                   )}
