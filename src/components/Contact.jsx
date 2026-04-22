@@ -123,7 +123,7 @@ export default function Contact() {
             </div>
 
             {/* WhatsApp */}
-            <a href="https://wa.me/919876543210?text=Hi%2C%20I%27m%20interested%20in%20a%20renovation%20consultation"
+            <a href="https://wa.me/919391216535?text=Hi%2C%20I%27m%20interested%20in%20a%20renovation%20consultation"
               target="_blank" rel="noreferrer"
               className="inline-flex items-center gap-3 bg-green-500 hover:bg-green-600 text-white font-semibold
                          px-6 py-3 rounded-full transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-green-500/30">

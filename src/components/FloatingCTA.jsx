@@ -19,7 +19,7 @@ export default function FloatingCTA() {
       {expanded && (
         <div className="flex flex-col gap-2 animate-[fadeSlideUp_0.3s_ease_forwards]">
           {/* WhatsApp */}
-          <a href="https://wa.me/919876543210?text=Hi%2C%20I%20need%20a%20renovation%20consultation"
+          <a href="https://wa.me/919391216535?text=Hi%2C%20I%20need%20a%20renovation%20consultation"
             target="_blank" rel="noreferrer"
             className="flex items-center gap-3 bg-green-500 hover:bg-green-600 text-white text-sm font-medium
                        pl-4 pr-5 py-3 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200">
@@ -30,7 +30,7 @@ export default function FloatingCTA() {
           </a>
 
           {/* Call */}
-          <a href="tel:+919876543210"
+          <a href="tel:+919391216535"
             className="flex items-center gap-3 bg-blue-500 hover:bg-blue-600 text-white text-sm font-medium
                        pl-4 pr-5 py-3 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-200">
             <Phone size={16} />
